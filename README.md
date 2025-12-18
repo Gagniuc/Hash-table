@@ -55,6 +55,7 @@ None
 ## References
 
 - <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations, Design, and Applications. Cambridge, MA: Elsevier Syngress, 2024. pp. 1-656.</i>
+- <i>Gagniuc, P. A., & Togan, M. (2025). Hash Tables as Engines of Randomness at the Limits of Computation: A Unified Review of Algorithms. Algorithms, 18(12), 804.</i>
 
 ***
 
