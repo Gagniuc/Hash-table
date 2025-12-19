@@ -59,3 +59,8 @@ None
 
 ***
 
+<a href="www.mdpi.com/journal/algorithms/special_issues/87X8E44D43">
+  <kbd>
+    <img src="https://github.com/Gagniuc/Hash-table/blob/main/src/abstract.png" alt="Hash Tables as Engines of Randomness at the Limits of Computation: A Unified Review of Algorithms">
+  </kbd>
+</a>
